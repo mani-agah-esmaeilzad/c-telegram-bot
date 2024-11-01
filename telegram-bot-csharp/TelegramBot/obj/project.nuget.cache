@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KwheA+yyzc3peCy5fgPaJA/jOnot3K+0ElHd9pqJE/tbt4BvFuqhCPR/rzt+rygXZQfRonqEkDzgpuIgP/Cq2Q==",
+  "success": true,
+  "projectFilePath": "/Users/maniagah/Desktop/csharp-telegram-bot/telegram-bot-csharp/TelegramBot/TelegramBot.csproj",
+  "expectedPackageFiles": [
+    "/Users/maniagah/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/maniagah/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/maniagah/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/maniagah/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/maniagah/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/maniagah/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  telegram-bot:
+    image: telegram-bot-csharp
+    build:
+      context: .
+      dockerfile: TelegramBot/Dockerfile
+    ports:
+      - "80:80"
